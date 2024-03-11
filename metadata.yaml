@@ -1,0 +1,36 @@
+_repo: A-spring-time-case-b-Otsuya-koroshi_73132
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Iwado, Zenchi
+    gutenberg_agent_id: '56954'
+    url: http://www.gutenberg.org/2009/agents/56954
+creator:
+  author:
+    agent_name: Tanizaki, Jun'ichiro
+    alias: 谷崎潤一郎
+    birthdate: 1886
+    deathdate: 1965
+    gutenberg_agent_id: '35363'
+    url: http://www.gutenberg.org/2009/agents/35363
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki
+    - https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E
+description: ''
+gutenberg_issued: '2024-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73132'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/009658322
+pgterms:marc905: 20240224134333tanizaki
+pgterms:marc906: '1927'
+pgterms:marc907: jp
+publication_note: '  $aTokyo :$bThe Japan Times, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A spring-time case : $b Otsuya koroshi'
+url: http://www.gutenberg.org/ebooks/73132
