@@ -5,6 +5,9 @@ contributor:
     agent_name: Iwado, Zenchi
     gutenberg_agent_id: '56954'
     url: http://www.gutenberg.org/2009/agents/56954
+covers:
+- cover_type: archival
+  image_path: 73132-h/images/cover.png
 creator:
   author:
     agent_name: Tanizaki, Jun'ichiro
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki
     - https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73132#A-spring-time-case-b-Otsuya-koroshi
 gutenberg_issued: '2024-03-10'
 gutenberg_type: Text
 identifiers:
